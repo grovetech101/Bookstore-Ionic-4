@@ -1,2 +1,2 @@
 # MyEbooks
-The Ecommerce Application for launching.
+The Ecommerce Application for book store management.
